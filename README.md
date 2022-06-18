@@ -1,2 +1,2 @@
 # Http-Server
-Demonstrates how to create an HTTP server in PowerShell.
+Demonstrates how to create a simple HTTP server in PowerShell.
